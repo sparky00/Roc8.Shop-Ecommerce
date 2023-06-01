@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Roc8.Shop-Ecommerce/static/css/main.3b865bf1.css",
+    "main.js": "/Roc8.Shop-Ecommerce/static/js/main.d229f082.js",
+    "static/media/banner.jpg": "/Roc8.Shop-Ecommerce/static/media/banner.33412a0052ffc4df46f2.jpg",
+    "index.html": "/Roc8.Shop-Ecommerce/index.html",
+    "main.3b865bf1.css.map": "/Roc8.Shop-Ecommerce/static/css/main.3b865bf1.css.map",
+    "main.d229f082.js.map": "/Roc8.Shop-Ecommerce/static/js/main.d229f082.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3b865bf1.css",
+    "static/js/main.d229f082.js"
+  ]
+}
